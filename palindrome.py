@@ -1,3 +1,4 @@
+# Palindrome Checker Using Stack and Queue
 print("==== PALINDROME CHECKER ====")
 
 while True:
